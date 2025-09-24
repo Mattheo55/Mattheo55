@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mattheo55&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mattheo55&theme=onedark)]]
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
