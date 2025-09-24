@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Matthéo
 
-<!--
-**Mattheo55/Mattheo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattheo55&layout=compact&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
+    alt="Top Languages" 
+    style="height: 200px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mattheo55&show_icons=true&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
+    alt="GitHub Stats" 
+    style="height: 200px;" 
+  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 En recherche de stage
