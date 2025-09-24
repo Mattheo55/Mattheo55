@@ -2,6 +2,8 @@
 
 ## 📊 GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?Mattheo55=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattheo55&layout=compact&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
