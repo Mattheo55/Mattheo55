@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?Mattheo55=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mattheo55&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
