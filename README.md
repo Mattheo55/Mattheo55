@@ -17,4 +17,4 @@
   />
 </div>
 
-📌 En recherche de stage
+📌 Actuellement en stage chez Mairistem By JVS
