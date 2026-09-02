@@ -1,20 +1,15 @@
 # 👋 Matthéo
 
-## 📊 GitHub Stats
+## 📊 Tech Stack
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mattheo55&theme=onedark)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattheo55&layout=compact&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
-    alt="Top Languages" 
-    style="height: 200px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mattheo55&show_icons=true&hide_border=true&bg_color=0d1117&title_color=78a9ff&text_color=f2f4f8&icon_color=78a9ff" 
-    alt="GitHub Stats" 
-    style="height: 200px;" 
-  />
-</div>
+## Framwork / librairie
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 📌 Développeur chez Mairistem by JVS
