@@ -17,4 +17,4 @@
   />
 </div>
 
-📌 Actuellement en stage chez Mairistem By JVS
+📌 Développeur chez Mairistem by JVS
